@@ -25,7 +25,7 @@
 <h2> Demo </h2>
   This application is deployed on Heroku. Please check it out 😄 <a href="https://alt-chat-app.herokuapp.com/" target="_blank">here</a>.
   
-  You can see screen shots, I attached some ss 👇.
+  You can see screen shots, I attached some here 👇.
   
   
   
