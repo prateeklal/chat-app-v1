@@ -1,4 +1,5 @@
-const socket = io()
+const { io } = require("https://cdn.socket.io/4.7.5/socket.io.min.js");
+const socket = io();
 
 // Elements
 const $messageForm = document.querySelector('#message-form')
